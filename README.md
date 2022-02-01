@@ -1,7 +1,7 @@
 - 👋 Hi, I’m #DHEENA
-- 👀 I’m interested in Android Platform
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on Android Community
+- 👀 I’m interested in Web Deisgning
+- 🌱 I’m currently learning UI Development
+- 💞️ I’m looking to collaborate on Web Community
 - 📫 How to reach me ~to_deena@outlook.com
 
 <!---
