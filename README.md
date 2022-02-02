@@ -1,7 +1,7 @@
 - 👋 Hi, I’m #DHEENA
-- 👀 I’m interested in Web Deisgning
-- 🌱 I’m currently learning UI Development
-- 💞️ I’m looking to collaborate on Web Community
+- 👀 I’m interested in playing with --Python
+- 🌱 I’m currently learning all areas of Py
+- 💞️ I’m looking to collaborate on Python Community
 - 📫 How to reach me ~to_deena@outlook.com
 
 <!---
